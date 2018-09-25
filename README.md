@@ -1,2 +1,2 @@
 # hello-world
-A test repository for exploring github nd adding my ideas.
+A test repository for exploring github and adding my ideas.
